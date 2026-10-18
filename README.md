@@ -11,7 +11,7 @@ Sebuah website yang akan memudahkan mahasiswa teknik elektro polnep untuk melaku
 4. Riwayat dan laporan peminjaman proyektor.
 
 ## Latar belakang
-Proyek ini dilatar belakangi oleh keresahan mahasiswa teknik elektro polnep ketika ingin meminjam proyektor, terkadang mahasiswa tidak mengetahui apakah proyektor yang teredia di jurusan masih ada atau tidak. 
+Proyek ini dilatarbelakangi oleh permasalahan yang dialami mahasiswa Jurusan Teknik Elektro POLNEP ketika ingin meminjam proyektor. Karena ketersediaan proyektor yang terbatas, mahasiswa terkadang tidak mengetahui apakah proyektor yang tersedia di jurusan masih ada atau sedang dipinjam oleh mahasiswa lain. Akibatnya, mahasiswa harus datang langsung ke ruang jurusan untuk memastikan ketersediaan proyektor, yang berpotensi menyebabkan antrean dan memperlambat proses peminjaman. Selain itu, pendataan peminjaman yang masih menggunakan kertas dinilai kurang praktis dalam pengelolaan data.
 
 ## Tujuan
 1. Mendigitalisasi pendataan peminjaman proyektor.
